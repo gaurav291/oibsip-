@@ -1,0 +1,37 @@
+body {
+  background-color: #c6cbf5;
+  margin: 0px;
+  border: 0px;
+}
+
+.container {
+  border: 20px solid rgb(4, 4, 37);
+  border-color: #877eff;
+}
+.last-section{
+  font-size: 16px;
+  font-family: "Times New Roman", Times, serif;
+  line-height: 30px;
+  word-spacing : 1px;
+  padding : 20px ;
+}
+
+.middle-section{
+  padding: 10px;
+}
+.middle-section h2{
+  font-size: 40px;  
+  font-family: 'Times New Roman', Times, serif;
+  margin-bottom: 2px;
+}
+p{
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+  line-height: 30px;
+  word-spacing: 10%;  
+  letter-spacing: 0.60px;
+}
+
+footer p{
+  text-align:end;
+}
